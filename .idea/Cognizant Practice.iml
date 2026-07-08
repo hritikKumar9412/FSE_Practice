@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/OOPS_BankingSystem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/HospitalManagementSystem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/VehicleRentalSystem" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Design" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
